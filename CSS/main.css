@@ -138,11 +138,10 @@ footer .foot{
     position: absolute;
     bottom: 0;/*Para que siempre se quede abajo*/
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 1fr 1fr;
     align-items: center;
     background-color: #f2f2f2;
     border-top: 1px solid #e4e4e4;
-    z-index: 1;
 }
 footer .foot ul{
     margin: 10px;
